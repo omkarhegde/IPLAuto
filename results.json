@@ -1,0 +1,103 @@
+{
+	"results" : [
+		{
+			"id" : "1",
+			"mom": "ambati rayudu",
+			"highscorer" : ["ambati rayudu"],
+			"highwickets" : ["lungi ngidi"],
+			"winner" : "csk",
+			"date" : 19,
+			"time" : 7
+		},
+		{
+			"id" : "2",
+			"mom": "marcus stoinis",
+			"highscorer" : ["mayank agarwal"],
+			"highwickets" : ["mohammed shami"],
+			"winner" : "dc",
+			"date" : 20,
+			"time" : 7
+		},
+		{
+			"id" : "3",
+			"mom": "yuzvendra chahal",
+			"highscorer" : ["jonny bairstow"],
+			"highwickets" : ["yuzvendra chahal"],
+			"winner" : "rcb",
+			"date" : 21,
+			"time" : 7
+		},
+		{
+			"id" : "4",
+			"mom": "sanju samson",
+			"highscorer" : ["sanju samson"],
+			"highwickets" : ["sam curran", "rahul tewatia"],
+			"winner" : "rr",
+			"date" : 22,
+			"time" : 7
+		},
+		{
+			"id" : "5",
+			"mom": "rohit sharma",
+			"highscorer" : ["rohit sharma"],
+			"highwickets" : ["shivam mavi", "trent boult", "james pattinson", "jasprit bumrah", "rahul chahar"],
+			"winner" : "mi",
+			"date" : 23,
+			"time" : 7
+		},
+		{
+			"id" : "6",
+			"mom": "kl rahul",
+			"highscorer" : ["kl rahul"],
+			"highwickets" : ["ravi bishnoi", "murugan ashwin"],
+			"winner" : "kxip",
+			"date" : 24,
+			"time" : 7
+		},
+		{
+			"id" : "7",
+			"mom": "Prithvi Shaw",
+			"highscorer" : ["prithvi shaw"],
+			"highwickets" : ["kagiso rabada"],
+			"winner" : "dc",
+			"date" : 25,
+			"time" : 7
+		},
+		{
+			"id" : "8",
+			"mom": "shubman gill",
+			"highscorer" : ["shubman gill"],
+			"highwickets" : ["pat cummins", "varun chakravarthy", "andre russell", "khaleel ahmed", "t natarajan", "rashid khan"],
+			"winner" : "kkr",
+			"date" : 26,
+			"time" : 7
+		},
+		{
+			"id" : "9",
+			"mom": "sanju samson",
+			"highscorer" : ["mayank agarwal"],
+			"highwickets" : ["mohammed shami"],
+			"winner" : "rr",
+			"date" : 27,
+			"time" : 7
+		},
+		{
+			"id" : "10",
+			"mom": "ab de villiers",
+			"highscorer" : ["ishan kishan "],
+			"highwickets" : ["isuru udana", "trent Boult"],
+			"winner" : "rcb",
+			"date" : 28,
+			"time" : 7
+		},
+		{
+			"id" : "11",
+			"mom": "rashid khan",
+			"highscorer" : ["jonny bairstow"],
+			"highwickets" : ["rashid khan"],
+			"winner" : "srh",
+			"date" : 29,
+			"time" : 7
+		}
+	]
+}
